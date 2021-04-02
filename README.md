@@ -404,7 +404,7 @@ Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA
 _Belo Horizonte/MG_
 
 [Ks Gestão](https://www.ksgestao.com.br/)
-Vue Router, Vuex, Vue, Adonis, Node, PWA, SPA, Redis, Flutter, Docker
+Vuex, Vue, Adonis, Node, PWA, SPA, Redis, Flutter, Docker
 _São Gonçalo/RJ_
 
 [Kovi](https://kovi.com.br)  
